@@ -1,2 +1,1 @@
-Checking my git setup
-Seeing what happens if I edit a file directly on github
+Some info
